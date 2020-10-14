@@ -1,1 +1,1 @@
-# Checkers game in .Net C#
+# Checkers game in .NET C#
